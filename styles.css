@@ -1,0 +1,23 @@
+.post {
+	width: 800px; 
+	overflow-wrap: break-word; 
+	border: solid red 2px; 
+	margin: auto;
+}
+
+.post_container {
+	margin: 15px;
+}
+
+.username {
+	margin-top: auto; 
+	display: inline-block; 
+	width: 383px;
+}
+
+.date {
+	margin-top: auto; 
+	display: inline-block; 
+	width: 383px; 
+	text-align: right;
+}
